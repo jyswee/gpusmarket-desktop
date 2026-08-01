@@ -22,6 +22,6 @@ The macOS app for hosting your Mac on [GPUsMarket](https://gpusmarket.com) — e
 - [Ollama](https://ollama.com/download/mac) (the wizard walks you through it)
 - A [gpusmarket.com](https://gpusmarket.com) account
 
-> **Note (current build):** the app is not yet notarized. On first launch, right-click **GPUsMarket.app → Open → Open**. A notarized build is coming and will replace the download at the same URL.
+The app is signed and notarized by Apple — it opens like any other Mac app, no security warnings.
 
 Prefer the terminal? `npx easytyga --key gph_...` does the same tunnel — see [easytyga](https://github.com/jyswee/easytyga).
